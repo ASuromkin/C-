@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Санёчек\.Rider2019.1\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Санёчек\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Санёчек\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_lab5.2146275125.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Санёчек\Downloads\C-Sharp_labs-master (1)\C-Sharp_labs-master\lab5" t="IncludeFlat">
+      <e p="lab5" t="IncludeRecursive">
+        <e p="lab5.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="lab5.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
